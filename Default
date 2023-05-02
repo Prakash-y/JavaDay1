@@ -1,0 +1,19 @@
+public class deafult 
+{
+	static int integer;
+	static float floats;
+	static double doubles;
+	static byte bytes ;
+	static short shorts;
+	static long longs;
+		public static void main(String [] args) 
+    {
+			
+			System.out.println(integer);
+			System.out.println(floats);
+			System.out.println(doubles);
+			System.out.println(bytes);
+			System.out.println(shorts);
+			System.out.println(longs);
+		}
+}
